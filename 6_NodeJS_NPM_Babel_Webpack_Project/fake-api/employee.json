@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Melih Karatekin",
+      "department": "Bilgisayar",
+      "salary": 2000
+    },
+    {
+      "id": 2,
+      "name": "Eypio",
+      "department": "Elektrik",
+      "salary": 2000
+    },
+    {
+      "name": "Furkan Kırala",
+      "department": "Bilgisayar",
+      "salary": 2000,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Yavuz Selim Konur",
+      "department": "Biyomedikal",
+      "salary": 2000
+    },
+    {
+      "name": "abcccsadas",
+      "department": "a",
+      "salary": 5000,
+      "id": 6
+    }
+  ]
+}
